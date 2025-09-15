@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @anasenjug
 - 👀 I’m interested in video game design, web design, interface design, application design
 - 🌱 I’m currently learning web design, C/C++, python, Java
-- I'm in my third year of a Bachelor's program at The Faculty of Electrical Engineering, Computer Science and Information Technology Osijek
-- Here I will showcase some projects I've done, both personal and ones during my education
+- I'm in my third year of a Bachelor's program in Computer Science
   
 
 <!---
